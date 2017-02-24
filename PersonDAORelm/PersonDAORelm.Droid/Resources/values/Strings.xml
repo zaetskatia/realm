@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="read">Read</string>
+  <string name="create">Create</string>
+  <string name="update">Update</string>
+  <string name="delete">Delete</string>
+	<string name="app_name">PersonDAORelm.Droid</string>
+</resources>
